@@ -1,0 +1,12 @@
+5 – Sobreposição – è obrigatório  ter herança e ter  o mesmo código . Assinatura  semelhante  e  herança .A sobrecarga 
+ - escrever o mesmo código  ,mas  com argumentos diferentes.
+
+6- Interface- É uma classe com métodos genéricos  , ou seja  , ainda  será implementada  
+.Quem assina  um interface assina um contrato  ,mas não diz como implementar.
+Abstratas-  Define  um tipo ,ou  seja , são apenas  um rascunho de como as classes que  herdarem deve se comporta.
+Usamos a  interfaces quando precisamos que uma classe de  diferente  origens(herança) tenham  métodos em comum e
+ possam acessada através da  mesma variável. As classes abstratas são utilizada quando  vc quer 
+ implementa  métodos ,mas que tbm possam  ser métodos implementados  na  própria classe  abstrata.
+
+7-Composição – você  pode  mudar  o código  em tempo de execução .Já  a  herança que depois que  o 
+ código for copilado e  executado ele não pode ser  mais  mudado.
